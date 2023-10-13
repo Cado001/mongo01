@@ -10,6 +10,8 @@ await addACar();
 // await deleteAFish();
 // await addAfish();
 // await getALLFISH();
+// await updateOneFish();
+// await getAllCar();
 
 closeClient();
 

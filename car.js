@@ -20,10 +20,10 @@ export async function addACar(){
     console.log('carAdded ->', carAdded)
 }
 
-// Get all vehicles
+// Create a function to read / get all vehicles
 // export async function getALLCAR(){
 //    const carList = await db.collection('car').find({}).toArray();
-    // console.table(carList)
+    // console.table(carList);
 // }
 
 
